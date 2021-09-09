@@ -41,7 +41,7 @@ from pandas._config import (
 )
 
 # let init-time option registration happen
-import pandas.pandascore.config_init
+import pandas.core.config_init
 
 from pandas.core.api import (
     # dtype
