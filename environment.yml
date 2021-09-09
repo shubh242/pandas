@@ -13,8 +13,8 @@ dependencies:
 
   # building
   # The compiler packages are meta-packages and install the correct compiler (activation) packages on the respective platforms.
-  - c-compiler
-  - cxx-compiler
+  # - c-compiler
+  # - cxx-compiler
   - cython>=0.29.21
 
   # code checks
